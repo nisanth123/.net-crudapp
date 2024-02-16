@@ -24,7 +24,7 @@ This guide explains setting up a production-ready ASP.NET Core environment on Do
 2. Create a simple ASP.NET Core Web Application which do CRUD Operations using Entity Framework(with My SQL Server)
 3. Created MySQL and ASP.NET Core Web Application container in Docker on Windows Container
 4. Hosted both ASP.NET Core 3.1 and MySQL Server Container in Docker
-
+##
 ### Required Tools
 
 * Windows 10
